@@ -1,4 +1,3 @@
 easyocr
 imutils
 numpy
-libgl1-mesa-glx
