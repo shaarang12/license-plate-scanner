@@ -1,4 +1,4 @@
 easyocr
 imutils
-opencv-python
+cv2
 numpy
