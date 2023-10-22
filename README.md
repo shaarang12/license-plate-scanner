@@ -1,6 +1,6 @@
-# License Plate Recognizer
+# License Plate Scanner
 
-![License Plate Recognizer](https://github.com/shaarang12/number-plate-recognizer/blob/main/license.webp)
+![License Plate Scanner](https://github.com/shaarang12/number-plate-recognizer/blob/main/license.webp)
 
 ## Table of Contents
 - [Overview](#overview)
