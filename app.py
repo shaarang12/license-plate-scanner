@@ -1,6 +1,7 @@
 import cv2
 import easyocr
 import numpy as np
+import streamlit as st
 
 # Load the image and perform OCR
 def process_image(image):
